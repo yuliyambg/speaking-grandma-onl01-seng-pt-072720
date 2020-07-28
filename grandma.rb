@@ -2,7 +2,7 @@
 def speak_to_grandma(string)
   if string == string.downcase
     return "HUH?! SPEAK UP, SONNY!"
-  else
+  elsif 
 end
 
 # Whatever you say to grandma, she should respond with
